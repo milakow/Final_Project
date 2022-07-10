@@ -21,10 +21,15 @@ Currently (July/2022), working in the steel structure industry, I can also use t
 Technologies Used
 
 Python 3.10.2
+
 NumPy 1.23.0
+
 matplotlib.pyplot 3.5.2
+
 easygui 0.98.3
+
 pathlib
+
 
 
 Screenshots
@@ -38,9 +43,13 @@ Based on user data 'Graph Maker' prepares a plot for user and counts average and
 
 
 Project Status
+
 Project is: complete.
 However, my next goal is to enable the use of databases and making graphs based on them.
 
 
 Contact
 Created by @milakow - feel free to contact me!
+
+Many thanks to CODE:ME Foundation for truly amazing Python course. 
+Last eight weeks were extremely busy, but I am determined to work on my code even more.
