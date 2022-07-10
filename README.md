@@ -1,15 +1,17 @@
 #GRAPH MAKER
 
-**Table of Contents
-  General Info
+Table of Contents
+
+
+  - General Info
   
-  Technologies Used
+  - Technologies Used
   
-  Screenshots
+  - Screenshots
   
-  Project Status
+  - Project Status
   
-  Contact
+  - Contact
   
 
 
