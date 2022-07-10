@@ -22,15 +22,15 @@ Currently (July/2022), working in the steel structure industry, I can also use t
 
 Technologies Used
 
-  Python 3.10.2
+  - Python 3.10.2
   
-  NumPy 1.23.0
+  - NumPy 1.23.0
   
-  matplotlib.pyplot 3.5.2
+  - matplotlib.pyplot 3.5.2
   
-  easygui 0.98.3
+  - easygui 0.98.3
   
-  pathlib
+  - pathlib
   
 
 
