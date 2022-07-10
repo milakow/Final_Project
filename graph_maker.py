@@ -73,7 +73,7 @@ def main():
 
     average = calculations.count_average(hardness, len(hardness))
     deviation = calculations.count_deviation(hardness, average, len(hardness))
-    print(f'For these datas the average hardness is {average} HV whereas the standard deviation is {deviation}.')
+    print(f'For this data the average hardness is {average} HV whereas the standard deviation is {deviation}.')
 
     build_graph(graph_type, filename, hardness, position, str_position)
 
