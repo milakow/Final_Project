@@ -1,6 +1,6 @@
 #GRAPH MAKER
 
-Table of Contents
+**Table of Contents
   General Info
   
   Technologies Used
